@@ -11,12 +11,14 @@ Each script is organized in its own folder. Below are some available scripts:
 4. google_search/ → Google search in Python
 5. sysf/ → Get your system information in Python
 6. systeminfo/ → Get your operating system information in Python
-7. Donut Chart/ → How to draw a donut chart
-8. Filled line plot/ → How to draw a filled line plot
-9. Heatmap/ → How to draw a heatmap
-10. Stacked Bar Chart/ → How to draw a Stacked Bar Chart
-11. Violin Plot/ → How to draw a Violin Plot
-7. More scripts coming soon...
+7. Donut Chart/ → How to draw a donut chart in Python
+8. Filled line plot/ → How to draw a filled line plot in Python
+9. Heatmap/ → How to draw a heatmap in Python
+10. Stacked Bar Chart/ → How to draw a Stacked Bar Chart in Python
+11. Violin Plot/ → How to draw a Violin Plot in Python
+12. Happy Women's Day/ → How to write Happy Women's Day in Python
+13. Women's Day/ → How to write Women's Day in Python
+14. More scripts coming soon...
 
 How to Use
 Follow these steps to try out the scripts:
