@@ -13,39 +13,42 @@ Scripts are organized into three main categories:
 
 Below is a preview of some available scripts:
 
-🔹 Visualizations (Data Plots & Charts)
-✅ Donut Chart → Create a donut chart in Python.
-✅ Filled Line Plot → Generate a filled line plot.
-✅ Heatmap → Visualize data using a heatmap.
-✅ Stacked Bar Chart → Draw a stacked bar chart.
-✅ Violin Plot → Create a violin plot for statistical data.
+ Visualizations (Data Plots & Charts)
 
-🔹 General Scripts (Utilities & Automation)
-✅ netspeed → Check your internet speed.
-✅ file_access → Access and manage files & directories.
-✅ background-image → Remove background from images.
-✅ google_search → Perform Google searches using Python.
-✅ systeminfo → Retrieve operating system details.
+1. Donut Chart → Create a donut chart in Python.
+2. Filled Line Plot → Generate a filled line plot.
+3. Heatmap → Visualize data using a heatmap.
+4. Stacked Bar Chart → Draw a stacked bar chart.
+5. Violin Plot → Create a violin plot for statistical data.
 
-🔹 Events (Special Occasion Scripts)
-✅ Happy Women's Day → Generate a Women's Day message in Python.
-✅ Women's Day → Another Women's Day script.
-✅ More event-based scripts coming soon...
+ General Scripts (Utilities & Automation)
+
+1. netspeed → Check your internet speed.
+2. file_access → Access and manage files & directories.
+3. background-image → Remove background from images.
+4. google_search → Perform Google searches using Python.
+5. systeminfo → Retrieve operating system details.
+
+ Events (Special Occasion Scripts)
+
+1. Happy Women's Day → Generate a Women's Day message in Python.
+2. Women's Day → Another Women's Day script.
+3. More event-based scripts coming soon...
 
  How to Use
 
 Follow these steps to try out the scripts:
 
-1️⃣ Clone the Repository
+1. Clone the Repository
 
 git clone https://github.com/your-username/repo-name.git
 cd repo-name
 
-2️⃣ Navigate to a Script
+2. Navigate to a Script
 
 cd general_scripts/netspeed  # Example: Navigate to the netspeed script
 
-3️⃣ Run the Script
+3. Run the Script
 
 python main.py
 
@@ -55,16 +58,16 @@ pip install -r requirements.txt
 
 Requirements
 
-✅ Python 3.x (recommended)
-✅ Some scripts may require additional Python libraries (mentioned in each script’s folder).
+1. Python 3.x (recommended)
+2. Some scripts may require additional Python libraries (mentioned in each script’s folder).
 
  Contribute
 
 Got a cool Python script to share? We welcome pull requests! Feel free to contribute by:
 
-✅ Adding new scripts
-✅ Improving existing scripts
-✅ Fixing bugs
+1. Adding new scripts
+2. Improving existing scripts
+3. Fixing bugs
 
 Fork the repo, make your changes, and submit a pull request!
 
