@@ -20,6 +20,7 @@ Below is a preview of some available scripts:
 3. Heatmap → Visualize data using a heatmap.
 4. Stacked Bar Chart → Draw a stacked bar chart.
 5. Violin Plot → Create a violin plot for statistical data.
+6. Union (Merging Two Geometries) → Creates a union of two circles using GeoPandas and Shapely
 
  General Scripts (Utilities & Automation)
 
