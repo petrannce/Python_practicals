@@ -21,6 +21,9 @@ Below is a preview of some available scripts:
 4. Stacked Bar Chart → Draw a stacked bar chart.
 5. Violin Plot → Create a violin plot for statistical data.
 6. Union (Merging Two Geometries) → Creates a union of two circles using GeoPandas and Shapely
+7. 3D Plot → 3D Plot using Python
+8. Butterfly Pattern Plot → Butterfly Pattern Plot using python
+9. Contourf Plot → Contourf Plot in Python
 
  General Scripts (Utilities & Automation)
 
@@ -29,6 +32,7 @@ Below is a preview of some available scripts:
 3. background-image → Remove background from images.
 4. google_search → Perform Google searches using Python.
 5. systeminfo → Retrieve operating system details.
+6. Encrypt_and_Decrypt → Encrypt and Decrypt Strings in Python
 
  Events (Special Occasion Scripts)
 
