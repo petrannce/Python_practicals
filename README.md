@@ -20,6 +20,15 @@ Below is a preview of some available scripts:
 3. Heatmap → Visualize data using a heatmap.
 4. Stacked Bar Chart → Draw a stacked bar chart.
 5. Violin Plot → Create a violin plot for statistical data.
+4. Stacked Bar Chart → Stacked Bar Chart in Python
+4. Donut Chart → Donut Chart in Python
+4. Polar Plot → Polar Plot in Python
+4. Contour Plot → Contour Plot in Python
+4. Box Plot → Box Plot in Python
+4. Stream Plot → Stream Plot in Python
+4. Subplots → Subplots in Python
+4. Twin Axes → Twin Axes using Python
+4. Step Plot → Step Plot in Python
 6. Union (Merging Two Geometries) → Creates a union of two circles using GeoPandas and Shapely
 7. 3D Plot → 3D Plot using Python
 8. Butterfly Pattern Plot → Butterfly Pattern Plot using python
