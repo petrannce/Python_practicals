@@ -13,28 +13,26 @@ Scripts are organized into three main categories:
 
 Below is a preview of some available scripts:
 
- Visualizations (Data Plots & Charts)
+Visualizations (Data Plots & Charts)
 
-1. Donut Chart → Create a donut chart in Python.
-2. Filled Line Plot → Generate a filled line plot.
-3. Heatmap → Visualize data using a heatmap.
-4. Stacked Bar Chart → Draw a stacked bar chart.
-5. Violin Plot → Create a violin plot for statistical data.
-4. Stacked Bar Chart → Stacked Bar Chart in Python
-4. Donut Chart → Donut Chart in Python
-4. Polar Plot → Polar Plot in Python
-4. Contour Plot → Contour Plot in Python
-4. Box Plot → Box Plot in Python
-4. Stream Plot → Stream Plot in Python
-4. Subplots → Subplots in Python
-4. Twin Axes → Twin Axes using Python
-4. Step Plot → Step Plot in Python
-6. Union (Merging Two Geometries) → Creates a union of two circles using GeoPandas and Shapely
-7. 3D Plot → 3D Plot using Python
-8. Butterfly Pattern Plot → Butterfly Pattern Plot using python
-9. Contourf Plot → Contourf Plot in Python
+. 3D Plot → 3D Plot using Python
+. Box Plot → Box Plot in Python
+. Butterfly Pattern Plot → Butterfly Pattern Plot using python
+. Contour Plot → Contour Plot in Python
+. Contourf Plot → Contourf Plot in Python
+. Donut Chart → Donut Chart in Python
+. Filled Line Plot → Filled Line Plot in Python
+. Heatmap → Heatmap in Python
+. Polar Plot → Polar Plot in Python
+. Stacked Bar Chart → Stacked Bar Chart in Python
+. Step Plot → Step Plot in Python
+. Stream Plot → Stream Plot in Python
+. Subplots → Subplots in Python
+. Twin Axes → Twin Axes in Python
+. Union → Union using python
+. Violin Plot → Violin Plot in Python
 
- General Scripts (Utilities & Automation)
+General Scripts (Utilities & Automation)
 
 1. netspeed → Check your internet speed.
 2. file_access → Access and manage files & directories.
@@ -43,13 +41,13 @@ Below is a preview of some available scripts:
 5. systeminfo → Retrieve operating system details.
 6. Encrypt_and_Decrypt → Encrypt and Decrypt Strings in Python
 
- Events (Special Occasion Scripts)
+Events (Special Occasion Scripts)
 
 1. Happy Women's Day → Generate a Women's Day message in Python.
 2. Women's Day → Another Women's Day script.
 3. More event-based scripts coming soon...
 
- How to Use
+How to Use
 
 Follow these steps to try out the scripts:
 
@@ -60,7 +58,7 @@ cd repo-name
 
 2. Navigate to a Script
 
-cd general_scripts/netspeed  # Example: Navigate to the netspeed script
+cd general_scripts/netspeed # Example: Navigate to the netspeed script
 
 3. Run the Script
 
@@ -75,7 +73,7 @@ Requirements
 1. Python 3.x (recommended)
 2. Some scripts may require additional Python libraries (mentioned in each script’s folder).
 
- Contribute
+Contribute
 
 Got a cool Python script to share? We welcome pull requests! Feel free to contribute by:
 
@@ -85,8 +83,8 @@ Got a cool Python script to share? We welcome pull requests! Feel free to contri
 
 Fork the repo, make your changes, and submit a pull request!
 
- Feedback & Issues
+Feedback & Issues
 
 Found a bug? Have a suggestion? Open an issue, and let’s improve together!
 
- Star this repository if you find it useful! Happy coding!
+Star this repository if you find it useful! Happy coding!
