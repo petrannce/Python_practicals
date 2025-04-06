@@ -41,6 +41,7 @@ General Scripts (Utilities & Automation)
 4. google_search → Perform Google searches using Python.
 5. systeminfo → Retrieve operating system details.
 6. Encrypt_and_Decrypt → Encrypt and Decrypt Strings in Python
+7. Robinson_Projection → Robinson Projection (Compromise Map)
 
 Events (Special Occasion Scripts)
 
