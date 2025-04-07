@@ -30,6 +30,7 @@ Visualizations (Data Plots & Charts)
 . Step Plot → Step Plot in Python
 . Stream Plot → Stream Plot in Python
 . Subplots → Subplots in Python
+. Swarm Plot → Swarm Plot in Python
 . Twin Axes → Twin Axes in Python
 . Union → Union using python
 . Violin Plot → Violin Plot in Python
