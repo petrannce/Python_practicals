@@ -17,6 +17,7 @@ Visualizations (Data Plots & Charts)
 
 . 3D Plot → 3D Plot using Python
 . Box Plot → Box Plot in Python
+. Broken Axis → Broken Axis in Python
 . Butterfly Pattern Plot → Butterfly Pattern Plot using python
 . Contour Plot → Contour Plot in Python
 . Contourf Plot → Contourf Plot in Python
