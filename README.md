@@ -28,6 +28,7 @@ Visualizations (Data Plots & Charts)
 . Heart Shape → Heart Shape Pattern Plot
 . Polar Plot → Polar Plot in Python
 . Stacked Bar Chart → Stacked Bar Chart in Python
+. Star Pattern → Star Pattern Plot using Python
 . Step Plot → Step Plot in Python
 . Stream Plot → Stream Plot in Python
 . Subplots → Subplots in Python
