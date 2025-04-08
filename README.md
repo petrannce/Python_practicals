@@ -16,6 +16,7 @@ Below is a preview of some available scripts:
 Visualizations (Data Plots & Charts)
 
 . 3D Plot → 3D Plot using Python
+. Bar Plot → Bar Plot with Seaborn
 . Box Plot → Box Plot in Python
 . Broken Axis → Broken Axis in Python
 . Butterfly Pattern Plot → Butterfly Pattern Plot using python
