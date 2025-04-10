@@ -20,6 +20,7 @@ Visualizations (Data Plots & Charts)
 . Box Plot → Box Plot in Python
 . Broken Axis → Broken Axis in Python
 . Butterfly Pattern Plot → Butterfly Pattern Plot using python
+. Circuit Diagram → Circuit Diagram using Python
 . Contour Plot → Contour Plot in Python
 . Contourf Plot → Contourf Plot in Python
 . Donut Chart → Donut Chart in Python
