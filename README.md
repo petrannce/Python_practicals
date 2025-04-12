@@ -27,6 +27,7 @@ Visualizations (Data Plots & Charts)
 . Donut Chart → Donut Chart in Python
 . Filled Line Plot → Filled Line Plot in Python
 . Heatmap → Heatmap in Python
+. Honeycomb → Honeycomb pattern plot using python
 . Heart Shape → Heart Shape Pattern Plot
 . Polar Plot → Polar Plot in Python
 . Stacked Bar Chart → Stacked Bar Chart in Python
