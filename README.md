@@ -27,6 +27,7 @@ Visualizations (Data Plots & Charts)
 . Donut Chart → Donut Chart in Python
 . Filled Line Plot → Filled Line Plot in Python
 . Heatmap → Heatmap in Python
+. Hollow Square → Hollow Square Pattern Plot using Python
 . Honeycomb → Honeycomb pattern plot using python
 . Heart Shape → Heart Shape Pattern Plot
 . Polar Plot → Polar Plot in Python
@@ -40,6 +41,7 @@ Visualizations (Data Plots & Charts)
 . Twin Axes → Twin Axes in Python
 . Union → Union using python
 . Violin Plot → Violin Plot in Python
+. Zig Zag → Zig Zag Pattern Plot using Python
 
 General Scripts (Utilities & Automation)
 
