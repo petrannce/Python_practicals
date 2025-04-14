@@ -26,6 +26,7 @@ Visualizations (Data Plots & Charts)
 . Contourf Plot → Contourf Plot in Python
 . Donut Chart → Donut Chart in Python
 . Filled Line Plot → Filled Line Plot in Python
+. Fish Scale → Fish Scale Pattern Plot
 . Heatmap → Heatmap in Python
 . Hollow Square → Hollow Square Pattern Plot using Python
 . Honeycomb → Honeycomb pattern plot using python
