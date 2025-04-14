@@ -31,6 +31,7 @@ Visualizations (Data Plots & Charts)
 . Honeycomb → Honeycomb pattern plot using python
 . Heart Shape → Heart Shape Pattern Plot
 . Polar Plot → Polar Plot in Python
+. Sankey → Sankey diagram in Python
 . Stacked Bar Chart → Stacked Bar Chart in Python
 . Star Pattern → Star Pattern Plot using Python
 . Step Plot → Step Plot in Python
