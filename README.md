@@ -30,6 +30,7 @@ Visualizations (Data Plots & Charts)
 . Heatmap → Heatmap in Python
 . Hollow Square → Hollow Square Pattern Plot using Python
 . Honeycomb → Honeycomb pattern plot using python
+. Mosaic Tile → Mosaic Tile Pattern Plot
 . Heart Shape → Heart Shape Pattern Plot
 . Polar Plot → Polar Plot in Python
 . Sankey → Sankey diagram in Python
