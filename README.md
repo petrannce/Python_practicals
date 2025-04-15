@@ -55,6 +55,7 @@ General Scripts (Utilities & Automation)
 5. systeminfo → Retrieve operating system details.
 6. Encrypt_and_Decrypt → Encrypt and Decrypt Strings in Python
 7. Robinson_Projection → Robinson Projection (Compromise Map)
+8. QR Code → QR Code using Python
 
 Events (Special Occasion Scripts)
 
