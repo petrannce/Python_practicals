@@ -62,7 +62,9 @@ Events (Special Occasion Scripts)
 
 1. Happy Women's Day → Generate a Women's Day message in Python.
 2. Women's Day → Another Women's Day script.
-3. More event-based scripts coming soon...
+3. Eid Mubarak → Eid Mubarak using Python
+
+NB: More event-based scripts coming soon...
 
 How to Use
 
