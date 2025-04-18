@@ -45,6 +45,7 @@ Visualizations (Data Plots & Charts)
 . Twin Axes → Twin Axes in Python
 . Union → Union using python
 . Violin Plot → Violin Plot in Python
+. X-Shaped → X-Shaped Pattern Plot using Python
 . Zig Zag → Zig Zag Pattern Plot using Python
 
 General Scripts (Utilities & Automation)
