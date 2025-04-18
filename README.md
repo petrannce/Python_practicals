@@ -21,6 +21,7 @@ Visualizations (Data Plots & Charts)
 . Broken Axis → Broken Axis in Python
 . Butterfly Pattern Plot → Butterfly Pattern Plot using python
 . Check Board → Check Board pattern plot using python
+. Circle Pattern → Circle Pattern Plot using Python
 . Circuit Diagram → Circuit Diagram using Python
 . Contour Plot → Contour Plot in Python
 . Contourf Plot → Contourf Plot in Python
