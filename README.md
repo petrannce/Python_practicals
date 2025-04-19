@@ -60,6 +60,7 @@ General Scripts (Utilities & Automation)
 7. Robinson_Projection → Robinson Projection (Compromise Map)
 8. QR Code → QR Code using Python
 9. Google Earth → Google Earth in Python
+10. Scattergeo → Scattergeo Plot Locations on a World Map
 
 Events (Special Occasion Scripts)
 
