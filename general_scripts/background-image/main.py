@@ -1,5 +1,6 @@
 from rembg import remove
 from PIL import Image
+import onnxruntime as ort
 
 input_path = 'linda.jpg'
 output_path = 'linda.png'
