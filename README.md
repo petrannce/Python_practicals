@@ -20,6 +20,7 @@ Visualizations (Data Plots & Charts)
 . Box Plot → Box Plot in Python
 . Broken Axis → Broken Axis in Python
 . Butterfly Pattern Plot → Butterfly Pattern Plot using python
+. Candlestick → Candlestick Chart plot using Python
 . Check Board → Check Board pattern plot using python
 . Circle Pattern → Circle Pattern Plot using Python
 . Circuit Diagram → Circuit Diagram using Python
