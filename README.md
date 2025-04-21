@@ -43,6 +43,7 @@ Visualizations (Data Plots & Charts)
 . Step Plot → Step Plot in Python
 . Stream Plot → Stream Plot in Python
 . Subplots → Subplots in Python
+. Sunburst → Sunburst Chart in Python
 . Streamgraphs → Streamgraphs in Python
 . Swarm Plot → Swarm Plot in Python
 . Time Series → Time Series Plot in Python
