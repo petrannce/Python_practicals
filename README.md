@@ -15,6 +15,7 @@ Below is a preview of some available scripts:
 
 Visualizations (Data Plots & Charts)
 
+. 2D Histogram → 2D Histogram Plot using Python
 . 3D Plot → 3D Plot using Python
 . Animated scatter → Animated scatter plot using Python
 . Bar Plot → Bar Plot with Seaborn
