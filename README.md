@@ -31,6 +31,7 @@ Visualizations (Data Plots & Charts)
 . Donut Chart → Donut Chart in Python
 . Filled Line Plot → Filled Line Plot in Python
 . Fish Scale → Fish Scale Pattern Plot
+. Galaxy → Colorful Galaxy using Python
 . Heart Shape → Heart Shape Pattern Plot
 . Heat_map → Heatmap with Seaborn
 . Heatmap → Heatmap in Python
