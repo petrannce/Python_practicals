@@ -40,6 +40,7 @@ Visualizations (Data Plots & Charts)
 . Honeycomb → Honeycomb pattern plot using python
 . Land Parcel → Plotting a Simple Land Parcel
 . Mosaic Tile → Mosaic Tile Pattern Plot
+. Network Graph → Network Graph using Python
 . Polar Plot → Polar Plot in Python
 . Sankey → Sankey diagram in Python
 . Stacked Bar Chart → Stacked Bar Chart in Python
