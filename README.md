@@ -72,6 +72,7 @@ General Scripts (Utilities & Automation)
 8. QR Code → QR Code using Python
 9. Google Earth → Google Earth in Python
 10. Scattergeo → Scattergeo Plot Locations on a World Map
+11. Periodic Table → Periodic Table Elements info using Python
 
 Events (Special Occasion Scripts)
 
