@@ -41,6 +41,7 @@ Visualizations (Data Plots & Charts)
 . Land Parcel → Plotting a Simple Land Parcel
 . Mosaic Tile → Mosaic Tile Pattern Plot
 . Network Graph → Network Graph using Python
+. Pareto Chart → Pareto Chart using Python
 . Polar Plot → Polar Plot in Python
 . Sankey → Sankey diagram in Python
 . Stacked Bar Chart → Stacked Bar Chart in Python
