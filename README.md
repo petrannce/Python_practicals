@@ -54,6 +54,7 @@ Visualizations (Data Plots & Charts)
 . Streamgraphs → Streamgraphs in Python
 . Swarm Plot → Swarm Plot in Python
 . Time Series → Time Series Plot in Python
+. Trend chart → Trend chart plot using Python
 . Twin Axes → Twin Axes in Python
 . Union → Union using python
 . Violin Plot → Violin Plot in Python
