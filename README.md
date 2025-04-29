@@ -78,6 +78,7 @@ General Scripts (Utilities & Automation)
 11. Periodic Table → Periodic Table Elements info using Python
 12. Barcode → Barcode creation using Python
 13. Images to PDF → Images to a PDF using Python
+14. Play music → Play music using Python
 
 Events (Special Occasion Scripts)
 
