@@ -79,6 +79,7 @@ General Scripts (Utilities & Automation)
 12. Barcode → Barcode creation using Python
 13. Images to PDF → Images to a PDF using Python
 14. Play music → Play music using Python
+15. Area of Sphere → Area of Sphere using Python
 
 Events (Special Occasion Scripts)
 

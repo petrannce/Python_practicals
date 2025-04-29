@@ -1,8 +1,12 @@
-from periodictable import elements, formulas
+import periodictable
 
-element = elements.O
+element_name = input("Enter the name of the element: ").capitalize()
+coding = getattr(periodictable, element_name, None)
 
-print("Name:", element.name)  # Output: Oxygen
-print("Symbol:", element.symbol)  # Output: O
-print("Atomic Mass:", element.mass)  # Output: 15.999
-print("Density:", element.density)  # Output: 0.001429 g/cm³ (at STP)
+if coding:
+    print(f"Element: {coding.name}")
+    print(f"Symbol: {coding.symbol}")
+    print(f"Atomic Number: {coding.number}")
+    print(f"Atomic Mass: {coding.mass}")
+else:
+    print(f"Element '{element_name}' not found in the periodic table.")
