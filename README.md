@@ -81,6 +81,7 @@ General Scripts (Utilities & Automation)
 13. Images to PDF → Images to a PDF using Python
 14. Play music → Play music using Python
 15. Area of Sphere → Area of Sphere using Python
+16. Area of Cuboid → Area of Cuboid using Python
 
 Events (Special Occasion Scripts)
 
