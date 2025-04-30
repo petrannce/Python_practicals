@@ -34,6 +34,7 @@ Visualizations (Data Plots & Charts)
 . Fish Scale → Fish Scale Pattern Plot
 . Funnel Chart → Create a funnel chart using Python
 . Galaxy → Colorful Galaxy using Python
+. Grouped Bar Graph → Grouped Bar Graph using Matplotlib in Python
 . Heart Shape → Heart Shape Pattern Plot
 . Heat_map → Heatmap with Seaborn
 . Heatmap → Heatmap in Python
