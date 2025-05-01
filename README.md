@@ -82,6 +82,7 @@ General Scripts (Utilities & Automation)
 14. Play music → Play music using Python
 15. Area of Sphere → Area of Sphere using Python
 16. Area of Cuboid → Area of Cuboid using Python
+17. Audio to Text → Audio to Text using Python
 
 Events (Special Occasion Scripts)
 
