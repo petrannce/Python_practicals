@@ -85,6 +85,7 @@ General Scripts (Utilities & Automation)
 16. Area of Cuboid → Area of Cuboid using Python
 17. Audio to Text → Audio to Text using Python
 18. Bubble Sort → Bubble Sort using Python
+19. Unzip Files → Unzip Files using Python
 
 Events (Special Occasion Scripts)
 
