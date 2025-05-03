@@ -86,6 +86,7 @@ General Scripts (Utilities & Automation)
 17. Audio to Text → Audio to Text using Python
 18. Bubble Sort → Bubble Sort using Python
 19. Unzip Files → Unzip Files using Python
+20. Map chart → Map chart using Python
 
 Events (Special Occasion Scripts)
 
