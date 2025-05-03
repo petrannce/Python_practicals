@@ -87,6 +87,7 @@ General Scripts (Utilities & Automation)
 18. Bubble Sort → Bubble Sort using Python
 19. Unzip Files → Unzip Files using Python
 20. Map chart → Map chart using Python
+21. Empty Recycle Bin → Empty Recycle Bin using Python
 
 Events (Special Occasion Scripts)
 
