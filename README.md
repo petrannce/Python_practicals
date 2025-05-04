@@ -89,6 +89,7 @@ General Scripts (Utilities & Automation)
 20. Map chart → Map chart using Python
 21. Empty Recycle Bin → Empty Recycle Bin using Python
 22. Password Authentication → Password Authentication using Python
+23. Window Version → Get Window Version
 
 Events (Special Occasion Scripts)
 
