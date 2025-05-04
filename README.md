@@ -88,6 +88,7 @@ General Scripts (Utilities & Automation)
 19. Unzip Files → Unzip Files using Python
 20. Map chart → Map chart using Python
 21. Empty Recycle Bin → Empty Recycle Bin using Python
+22. Password Authentication → Password Authentication using Python
 
 Events (Special Occasion Scripts)
 
