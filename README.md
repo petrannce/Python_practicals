@@ -97,7 +97,6 @@ Events (Special Occasion Scripts)
 2. Women's Day → Another Women's Day script.
 3. Eid Mubarak → Eid Mubarak using Python
 
-NB: More event-based scripts coming soon...
 
 How to Use
 
