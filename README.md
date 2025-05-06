@@ -91,6 +91,7 @@ General Scripts (Utilities & Automation)
 22. Password Authentication → Password Authentication using Python
 23. Window Version → Get Window Version
 24. Defang IP → Defang IP Address using Python
+25. Auto copy paste → Auto copy paste using Python
 
 Events (Special Occasion Scripts)
 
