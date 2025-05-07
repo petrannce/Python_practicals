@@ -92,6 +92,7 @@ General Scripts (Utilities & Automation)
 23. Window Version → Get Window Version
 24. Defang IP → Defang IP Address using Python
 25. Auto copy paste → Auto copy paste using Python
+26. Image captcha → Image captcha generator using python
 
 Events (Special Occasion Scripts)
 
