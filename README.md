@@ -93,6 +93,7 @@ General Scripts (Utilities & Automation)
 24. Defang IP → Defang IP Address using Python
 25. Auto copy paste → Auto copy paste using Python
 26. Image captcha → Image captcha generator using python
+27. Song Lyrics → Free Song Lyrics using Python
 
 Events (Special Occasion Scripts)
 
