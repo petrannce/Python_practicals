@@ -95,6 +95,7 @@ General Scripts (Utilities & Automation)
 26. Image captcha → Image captcha generator using python
 27. Song Lyrics → Free Song Lyrics using Python
 28. Video to gif → Convert Video files to gif in Python
+29. Desktop Notification → Desktop Notification with Python
 
 Events (Special Occasion Scripts)
 
