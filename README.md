@@ -99,6 +99,7 @@ General Scripts (Utilities & Automation)
 30. Cloud file sharing → Cloud file sharing using Python
 31. CAPTCHA → CAPTCHA in Python using captcha Library
 32. Coloured output → Coloured output in Python
+33. Position of a Planet → Find Position of a Planet using Python
 
 Events (Special Occasion Scripts)
 
