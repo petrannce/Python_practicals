@@ -98,6 +98,7 @@ General Scripts (Utilities & Automation)
 29. Desktop Notification → Desktop Notification with Python
 30. Cloud file sharing → Cloud file sharing using Python
 31. CAPTCHA → CAPTCHA in Python using captcha Library
+32. Coloured output → Coloured output in Python
 
 Events (Special Occasion Scripts)
 
