@@ -46,6 +46,7 @@ Visualizations (Data Plots & Charts)
 . Pareto Chart → Pareto Chart using Python
 . Polar Plot → Polar Plot in Python
 . Sankey → Sankey diagram in Python
+. Sigmoid Activation → Python code to plot Sigmoid Activation Functions
 . Slopegraphs → Slopegraphs using Python
 . Stacked Bar Chart → Stacked Bar Chart in Python
 . Star Pattern → Star Pattern Plot using Python
