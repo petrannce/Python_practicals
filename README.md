@@ -102,6 +102,7 @@ General Scripts (Utilities & Automation)
 32. Coloured output → Coloured output in Python
 33. Position of a Planet → Find Position of a Planet using Python
 34. PDF to docx → Convert PDF to docx using Python
+35. Dummy Data → Create Dummy Data using Python
 
 Events (Special Occasion Scripts)
 
