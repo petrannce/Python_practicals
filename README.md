@@ -103,6 +103,7 @@ General Scripts (Utilities & Automation)
 33. Position of a Planet → Find Position of a Planet using Python
 34. PDF to docx → Convert PDF to docx using Python
 35. Dummy Data → Create Dummy Data using Python
+36. Social is down → Check if Instagram or Facebook is down using Python
 
 Events (Special Occasion Scripts)
 
