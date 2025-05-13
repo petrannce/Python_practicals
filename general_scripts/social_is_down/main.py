@@ -23,7 +23,7 @@ def check_social_media_status(social_media):
         "twitter": "https://x.com/",
         "linkedin": "https://www.linkedin.com/",
         "tiktok": "https://www.tiktok.com/",
-        "snapchat": "https://www.snapchat.com//",
+        "snapchat": "https://www.snapchat.com/",
         "youtube": "https://www.youtube.com/",
     }
 
