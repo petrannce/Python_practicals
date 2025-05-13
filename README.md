@@ -20,6 +20,7 @@ Visualizations (Data Plots & Charts)
 . Animated scatter → Animated scatter plot using Python
 . Bar Plot → Bar Plot with Seaborn
 . Box Plot → Box Plot in Python
+. Box and whisker plot → Box and whisker plot in Python
 . Broken Axis → Broken Axis in Python
 . Bullet Charts → Bullet Charts using Python
 . Butterfly Pattern Plot → Butterfly Pattern Plot using python
