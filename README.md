@@ -106,6 +106,7 @@ General Scripts (Utilities & Automation)
 35. Dummy Data → Create Dummy Data using Python
 36. Social is down → Check if Instagram or Facebook is down using Python
 37. File Compression → Automating File Compression with gzip
+38. Generate OTP → Generate OTP using Python
 
 Events (Special Occasion Scripts)
 
