@@ -108,6 +108,7 @@ General Scripts (Utilities & Automation)
 37. File Compression → Automating File Compression with gzip
 38. Generate OTP → Generate OTP using Python
 39. Calendar month → Calendar month using Python
+40. Get Address → Get Address details using Python
 
 Events (Special Occasion Scripts)
 
