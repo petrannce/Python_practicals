@@ -109,6 +109,7 @@ General Scripts (Utilities & Automation)
 38. Generate OTP → Generate OTP using Python
 39. Calendar month → Calendar month using Python
 40. Get Address → Get Address details using Python
+41. Color Code → Python Program Color Name to Color Code
 
 Events (Special Occasion Scripts)
 
