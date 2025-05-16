@@ -111,6 +111,7 @@ General Scripts (Utilities & Automation)
 40. Get Address → Get Address details using Python
 41. Color Code → Python Program Color Name to Color Code
 42. Map with search → Create a map with search using Python
+43. WordClouds → Python Program for WordClouds
 
 Events (Special Occasion Scripts)
 
