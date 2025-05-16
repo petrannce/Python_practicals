@@ -110,6 +110,7 @@ General Scripts (Utilities & Automation)
 39. Calendar month → Calendar month using Python
 40. Get Address → Get Address details using Python
 41. Color Code → Python Program Color Name to Color Code
+42. Map with search → Create a map with search using Python
 
 Events (Special Occasion Scripts)
 
