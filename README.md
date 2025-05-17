@@ -112,6 +112,7 @@ General Scripts (Utilities & Automation)
 41. Color Code → Python Program Color Name to Color Code
 42. Map with search → Create a map with search using Python
 43. WordClouds → Python Program for WordClouds
+44. Screen recorder → Create a Screen recorder using Python
 
 Events (Special Occasion Scripts)
 
