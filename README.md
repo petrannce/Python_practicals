@@ -30,6 +30,7 @@ Visualizations (Data Plots & Charts)
 . Circuit Diagram → Circuit Diagram using Python
 . Contour Plot → Contour Plot in Python
 . Contourf Plot → Contourf Plot in Python
+. Derivatives → Visualize derivatives in Python
 . Donut Chart → Donut Chart in Python
 . Filled Line Plot → Filled Line Plot in Python
 . Fish Scale → Fish Scale Pattern Plot
