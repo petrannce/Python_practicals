@@ -115,6 +115,7 @@ General Scripts (Utilities & Automation)
 43. WordClouds → Python Program for WordClouds
 44. Screen recorder → Create a Screen recorder using Python
 45. PDF file protection → PDF file protection using password in Python
+46. File Chooser → File Chooser using Python
 
 Events (Special Occasion Scripts)
 
