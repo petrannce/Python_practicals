@@ -11,10 +11,9 @@ t.speed(0)
 
 for x in range (360):
     t.pencolor(color[x%len(color)])
-
     t.width(x//100 + 1)
     t.forward(x)
-    t.right(88)
+    t.right(88) # 59
 
 turtle.hideturtle()
 turtle.done()

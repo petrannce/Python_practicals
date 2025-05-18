@@ -114,6 +114,7 @@ General Scripts (Utilities & Automation)
 42. Map with search → Create a map with search using Python
 43. WordClouds → Python Program for WordClouds
 44. Screen recorder → Create a Screen recorder using Python
+45. PDF file protection → PDF file protection using password in Python
 
 Events (Special Occasion Scripts)
 
