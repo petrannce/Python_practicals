@@ -28,6 +28,7 @@ Visualizations (Data Plots & Charts)
 . Check Board → Check Board pattern plot using python
 . Circle Pattern → Circle Pattern Plot using Python
 . Circuit Diagram → Circuit Diagram using Python
+. Coloured Bar Graph → Coloured Bar Graph in Python
 . Contour Plot → Contour Plot in Python
 . Contourf Plot → Contourf Plot in Python
 . Derivatives → Visualize derivatives in Python
