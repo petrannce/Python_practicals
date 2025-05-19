@@ -33,6 +33,7 @@ Visualizations (Data Plots & Charts)
 . Contourf Plot → Contourf Plot in Python
 . Derivatives → Visualize derivatives in Python
 . Donut Chart → Donut Chart in Python
+. Error Bar Plot → Colorful Error Bar Plot in Python
 . Filled Line Plot → Filled Line Plot in Python
 . Fish Scale → Fish Scale Pattern Plot
 . Funnel Chart → Create a funnel chart using Python
