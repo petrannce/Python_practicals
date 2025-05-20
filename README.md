@@ -119,6 +119,7 @@ General Scripts (Utilities & Automation)
 45. PDF file protection → PDF file protection using password in Python
 46. File Chooser → File Chooser using Python
 47. ZIP File → Create a ZIP File using Python
+48. Files and Folders → Files and Folders using Python
 
 Events (Special Occasion Scripts)
 
