@@ -118,6 +118,7 @@ General Scripts (Utilities & Automation)
 44. Screen recorder → Create a Screen recorder using Python
 45. PDF file protection → PDF file protection using password in Python
 46. File Chooser → File Chooser using Python
+47. ZIP File → Create a ZIP File using Python
 
 Events (Special Occasion Scripts)
 
