@@ -120,6 +120,7 @@ General Scripts (Utilities & Automation)
 46. File Chooser → File Chooser using Python
 47. ZIP File → Create a ZIP File using Python
 48. Files and Folders → Files and Folders using Python
+49. Digital Clock → Digital Clock in Python
 
 Events (Special Occasion Scripts)
 
