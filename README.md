@@ -121,6 +121,7 @@ General Scripts (Utilities & Automation)
 47. ZIP File → Create a ZIP File using Python
 48. Files and Folders → Files and Folders using Python
 49. Digital Clock → Digital Clock in Python
+50. Domain Name → Domain Name Information using Python
 
 Events (Special Occasion Scripts)
 
