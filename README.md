@@ -122,6 +122,7 @@ General Scripts (Utilities & Automation)
 48. Files and Folders → Files and Folders using Python
 49. Digital Clock → Digital Clock in Python
 50. Domain Name → Domain Name Information using Python
+51. Your country → Find your country on map using Python
 
 Events (Special Occasion Scripts)
 
