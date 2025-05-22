@@ -48,6 +48,7 @@ Visualizations (Data Plots & Charts)
 . Mosaic Tile → Mosaic Tile Pattern Plot
 . Network Graph → Network Graph using Python
 . Pareto Chart → Pareto Chart using Python
+. Pie Chart → Pie Chart in Python
 . Polar Plot → Polar Plot in Python
 . Sankey → Sankey diagram in Python
 . Sigmoid Activation → Python code to plot Sigmoid Activation Functions
