@@ -124,6 +124,7 @@ General Scripts (Utilities & Automation)
 49. Digital Clock → Digital Clock in Python
 50. Domain Name → Domain Name Information using Python
 51. Your country → Find your country on map using Python
+52. Spelling Correction → Spelling Correction with Python
 
 Events (Special Occasion Scripts)
 
