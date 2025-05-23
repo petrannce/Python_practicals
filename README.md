@@ -125,6 +125,7 @@ General Scripts (Utilities & Automation)
 50. Domain Name → Domain Name Information using Python
 51. Your country → Find your country on map using Python
 52. Spelling Correction → Spelling Correction with Python
+53. Delete a Shortcut → Delete a Shortcut from Desktop
 
 Events (Special Occasion Scripts)
 
