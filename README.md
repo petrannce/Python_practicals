@@ -46,6 +46,7 @@ Visualizations (Data Plots & Charts)
 . Honeycomb → Honeycomb pattern plot using python
 . Land Parcel → Plotting a Simple Land Parcel
 . Mosaic Tile → Mosaic Tile Pattern Plot
+. Nanoparticle → Create a Nanoparticle (Metal Cluster)
 . Network Graph → Network Graph using Python
 . Pareto Chart → Pareto Chart using Python
 . Pie Chart → Pie Chart in Python
@@ -66,6 +67,7 @@ Visualizations (Data Plots & Charts)
 . Twin Axes → Twin Axes in Python
 . Union → Union using python
 . Violin Plot → Violin Plot in Python
+. Visualize a Molecule → Create and Visualize a Molecule
 . Watermark → Adding a Watermark to Plot in Matplotlib
 . Wireframe Plot → Wireframe Plot using Python
 . X-Shaped → X-Shaped Pattern Plot using Python
