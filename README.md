@@ -42,6 +42,7 @@ Visualizations (Data Plots & Charts)
 . Heart Shape → Heart Shape Pattern Plot
 . Heat_map → Heatmap with Seaborn
 . Heatmap → Heatmap in Python
+. Histogram Plot → Histogram Plot Using Matplotlib
 . Hollow Square → Hollow Square Pattern Plot using Python
 . Honeycomb → Honeycomb pattern plot using python
 . Land Parcel → Plotting a Simple Land Parcel
