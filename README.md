@@ -45,6 +45,7 @@ Visualizations (Data Plots & Charts)
 . Histogram Plot → Histogram Plot Using Matplotlib
 . Hollow Square → Hollow Square Pattern Plot using Python
 . Honeycomb → Honeycomb pattern plot using python
+. Horizontal Bar → Horizontal Bar Chart Using Matplotlib
 . Land Parcel → Plotting a Simple Land Parcel
 . Mosaic Tile → Mosaic Tile Pattern Plot
 . Nanoparticle → Create a Nanoparticle (Metal Cluster)
