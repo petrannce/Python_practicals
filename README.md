@@ -132,6 +132,7 @@ General Scripts (Utilities & Automation)
 53. Delete a Shortcut → Delete a Shortcut from Desktop
 54. Rainbow Circle → Rainbow Circle using Python
 55. Audio file from Youtube → Downloading a Audio file from Youtube Video
+56. Simple PDF → Create a Simple PDF (using reportlab)
 
 Events (Special Occasion Scripts)
 
