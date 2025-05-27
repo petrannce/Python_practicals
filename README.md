@@ -133,6 +133,7 @@ General Scripts (Utilities & Automation)
 54. Rainbow Circle → Rainbow Circle using Python
 55. Audio file from Youtube → Downloading a Audio file from Youtube Video
 56. Simple PDF → Create a Simple PDF (using reportlab)
+57. Check Board → Check Board pattern plot using python
 
 Events (Special Occasion Scripts)
 
