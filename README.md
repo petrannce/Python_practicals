@@ -47,6 +47,7 @@ Visualizations (Data Plots & Charts)
 . Honeycomb → Honeycomb pattern plot using python
 . Horizontal Bar → Horizontal Bar Chart Using Matplotlib
 . Land Parcel → Plotting a Simple Land Parcel
+. Line Graph → Line Graph using Python
 . Mosaic Tile → Mosaic Tile Pattern Plot
 . Nanoparticle → Create a Nanoparticle (Metal Cluster)
 . Network Graph → Network Graph using Python
